@@ -1,4 +1,5 @@
-streamlit
-google-generativeai
+streamlit>=1.30.0
+google-generativeai>=0.3.2
 protobuf<4.0.0
+
 
